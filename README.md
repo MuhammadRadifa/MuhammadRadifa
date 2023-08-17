@@ -12,8 +12,13 @@
 <p align="left">My name is Radifa and I'm a fullstack developer</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/muhammadRadifa/muhammadRadifa/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ###
 
