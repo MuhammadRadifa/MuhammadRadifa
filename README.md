@@ -1,7 +1,18 @@
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVlZmpuNzJ3c2dnencwa2ZwMTN6MHVndmcwMjN4YXV5aWV6MDlraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadradifa&label=Profile%20views&color=0e75b6&style=flat-square" alt="muhammadradifa" /> </p>
+  <p align="center"> 
+  <a href="https://radifa.my.id">
+  <img src="https://img.shields.io/badge/My_Portfolio-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
+</a>
+    <a href="https://linkedin.com/in/radifa/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/>
+</a>
+  </p>
+  
+
 </div>
+
+
 
 ###
 
