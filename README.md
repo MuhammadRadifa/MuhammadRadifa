@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVlZmpuNzJ3c2dnencwa2ZwMTN6MHVndmcwMjN4YXV5aWV6MDlraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="200" src="https://i.imgur.com/4ASafy0.png"  />
   <p align="center"> 
   <a href="https://radifa.my.id">
   <img src="https://img.shields.io/badge/My_Portfolio-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
@@ -13,48 +13,23 @@
 </div>
 
 
+<h1>I'm a Fullstuck developar <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
+<img align="right" alt="GIF" height="160px" margin="0px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<br/>
+👨‍💻 I’m currently undergraduate informatics student at STMIK Widya Cipta Dharma
+<br/>
+📚 I’m currently learning everything about web and mobile technologies 😅
+<br/>
+💪🏼 Future Goals: Learn more technologies
 
-###
+---
 
-<h1 align="left">Hi Folks <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-
-###
-
-<p align="left">My name is Radifa and I'm a fullstack developer</p>
-
-###
 <div align="center">
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" alt="adonisjs logo"  />
 </div>
 
 ###
